@@ -1,0 +1,2 @@
+install: dist
+    cp -r ../dist/* /

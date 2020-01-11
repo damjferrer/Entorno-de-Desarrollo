@@ -1,0 +1,4 @@
+clean calcula
+rm -rf ../dist;
+mkdir -p ../dist/usr/bin/calc
+cp calcula ../dist/usr/bin/calc
